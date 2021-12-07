@@ -2,7 +2,6 @@
 
 - 🔭 I'm a full-stack software engineer based in LDN 🇬🇧
 - 🌱 I’m learning advanced JavaScript, React, Django and Node.js!
-- 🤔 I’m looking for freelance work and full time front-end or full stack roles
 - 💬 Ask me about full-stack development, esports, gaming and digital marketing
 - 📫 How to reach me: @clembotprime on Twitter, or clemmurphy@gmail.com
 - 😄 Pronouns: He/Him
